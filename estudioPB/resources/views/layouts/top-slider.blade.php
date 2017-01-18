@@ -14,21 +14,18 @@
               <div class="slider-top-thumbs">
                 <div class="row-fluid table">
                   <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12 t_td">
-                    <h1 class="color-5acdc4 animation-scale">invisio <span class="animation-opacity animation-800">say`s</span> Hello!</h1>
+                    <h1 class="color-5acdc4 animation-scale">estudio PB <span class="animation-opacity animation-800">say`s</span> Hello!</h1>
                     <div class="row-fluid">
                       <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-8 col-sm-offset-2 col-xs-12">
                         <div class="row-fluid">
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity" src="img/icon.png"/>
-                            <br><span class="animation-rotate animation-500">progressive</span>
+
                           </div>
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity animation-500" src="img/icon1.png"/>
-                            <br><span class="animation-rotate animation-800">creative</span>
+
                           </div>
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity animation-800" src="img/icon2.png"/>
-                            <br><span class="animation-rotate">Love games</span>
+
                           </div>
                         </div>
                       </div>
@@ -50,16 +47,13 @@
                       <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-8 col-sm-offset-2 col-xs-12">
                         <div class="row-fluid">
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity" src="img/responsive_icon.png"/>
-                            <br><span class="animation-rotate animation-500">responsive</span>
+
                           </div>
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity animation-500" src="img/app_icon.png"/>
-                            <br><span class="animation-rotate animation-800">app</span>
+
                           </div>
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity animation-800" src="img/rmobile_icon.png"/>
-                            <br><span class="animation-rotate">mobile</span>
+
                           </div>
                         </div>
                       </div>
@@ -81,16 +75,13 @@
                       <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-8 col-sm-offset-2 col-xs-12">
                         <div class="row-fluid">
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity" src="img/multiplatform_icon.png"/>
-                            <br><span class="animation-rotate animation-500">multiplatform</span>
+
                           </div>
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity animation-500" src="img/3d_hd_icon.png"/>
-                            <br><span class="animation-rotate animation-800">3d</span>
+
                           </div>
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity animation-800" src="img/ultra_hd_icon.png"/>
-                            <br><span class="animation-rotate">ultra hd</span>
+
                           </div>
                         </div>
                       </div>
@@ -112,16 +103,13 @@
                       <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-8 col-sm-offset-2 col-xs-12">
                         <div class="row-fluid">
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity" src="img/listen_icon.png"/>
-                            <br><span class="animation-rotate animation-500">listen</span>
+
                           </div>
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity animation-500" src="img/explain_icon.png"/>
-                            <br><span class="animation-rotate animation-800">explain</span>
+
                           </div>
                           <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                            <img class="animation-opacity animation-800" src="img/create_icon.png"/>
-                            <br><span class="animation-rotate">create</span>
+
                           </div>
                         </div>
                       </div>
