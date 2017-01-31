@@ -8,18 +8,26 @@
             <div class="content-title content scale-text">
               <h2 class="color_fff time-line">Acerca de Nosotros</h2>
                </br><img class="divid" src="img/separate-white.png" alt="">
-                <p class="color_fff">Aliquam id tincidunt turpis, eu fringilla erat. Vestibulum lacinia, nisi sed bibendum pretium, eros sapien laoreet metus, ac facilisis felis enim a nibh. Sed sed ligula tellus. Aliquam feugiat, nunc ut tincidunt laoreet, urna quam pellentesque diam, id posuere velit lectus vel dui. Maecenas posuere eget metus ac venenatis. Pellentesque eget quam luctus, molestie ligula eu, tincidunt turpis, eu fringilla erat. Curabitur et justo urna. Praesent vulputate dui ac massa venenatis viverra. Aenean sed egestas elit, sit amet ornare urna. Sed eget diam nunc.
+                <p class="color_fff">
+                  En éstos días, no es difícil encontrar abogados inteligentes. Así tampoco es difícil encontrar abogados inteligentes y con experiencia. Aún así, como firma creemos que puede llegar a ser muy difícil encontrar abogados con esas cualidades y que además realmente se preocupen por las personas que representan.
                 </p>
-              <q class="color_fff">Sed porttitor ferment ipsum, ac cursus purus</q>
+
+                <p class="color_fff">
+                  Es por eso que buscamos trabajar para proporcionar la máxima satisfacción a nuestros clientes con soluciones a medida y de valor añadido a sus necesidades. Con pleno respeto al principio de conflicto de intereses.
+                </p>
+                <p>
+                  Con nuestros abogados experimentados, nuestra firma está especializada en las partes principales del derecho. Las áreas de especialización abarcan principalmente el derecho familiar y el derecho laboral.
+                </p>
+              <q class="color_fff">Tener el abogado correcto puede cambiar todo</q>
           </div>
-          <img class="bottom-img" src="img/device.png" alt="">
+          <!--<img class="bottom-img" src="img/device.png" alt="">-->
         </div>
       </div>
     </div>  
   </div>         
     
     <!--COMPANY INFO-->
-    
+<!--    
 <div class="full-width" style="background-image: url(img/company.jpg); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover;-moz-background-size: cover; -o-background-size: cover; background-size: cover; height:100%;">
  <div class="container">
     <div class="row">
@@ -62,3 +70,5 @@
 </div>
 
 </div> 
+
+-->
