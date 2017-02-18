@@ -14,18 +14,21 @@
     <div class="row">   
       <div class="col-md-12">
        <div class="icon scale-text">    
+       <!--
         <div class="soc-icon blue">
           <a href="">
             <img src="img/contact-icon1.png" alt="">
             <img src="img/contact-icon1_1.png" class="icon-hov" alt="">
           </a>
         </div>
-        <div class="soc-icon blue2">
-          <a href="">
-            <img src="img/contact-icon2.png" alt="">
-            <img src="img/contact-icon2_1.png" class="icon-hov" alt="">
-          </a>
-        </div>
+        -->
+        <a href="http://www.facebook.com/estudio.pb" target="_blank">
+          <div class="soc-icon blue2">
+              <img src="img/contact-icon2.png" alt="">
+              <img src="img/contact-icon2_1.png" class="icon-hov" alt="">
+          </div>
+        </a>
+       <!--
         <div class="soc-icon pink">
           <a href="">
             <img src="img/contact-icon3.png" alt="">
@@ -68,6 +71,7 @@
             <img src="img/contact-icon9_1.png" class="icon-hov" alt="">
           </a>
         </div>
+        -->
       </div>
     </div>     
   </div>
@@ -122,7 +126,7 @@
       </div>
       <div class="full-width">
         <div class="copyright">
-          <i>&copy; 2016 by Salomon. Todos los derechos reservados.</i>
+          <i>&copy; 2017, hecho por Ricardo Gamarra. Todos los derechos reservados.</i>
         </div> 
       </div>
     </div>    

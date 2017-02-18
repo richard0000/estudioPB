@@ -6,7 +6,7 @@
 3		28-01-17	Terminada		Completar "About"
 4		28-01-17	Terminada		Emprolijar servicios
 5		28-01-17	Terminada		Quitar "Noticias"
-6		28-01-17	No Comenzada	Completar enlaces a Social Networks
+6		28-01-17	Terminada		Completar enlaces a Social Networks
 7		28-01-17	Terminada		Crear ícono con logo para maps
 8		28-01-17	Terminada		Crear logo png para portada
 9		28-01-17	Terminada		Crear ícono con logo para pestaña
