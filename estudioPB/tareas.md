@@ -11,4 +11,4 @@
 8		28-01-17	Terminada		Crear logo png para portada
 9		28-01-17	Terminada		Crear ícono con logo para pestaña
 10		28-01-17	Terminada		Oscurecer foto de palacio de Justicia
-11		28-01-17	No Comenzada	Colocar fotos reales del equipo
+11		28-01-17	Terminada		Colocar fotos reales del equipo

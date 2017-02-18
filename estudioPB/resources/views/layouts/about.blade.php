@@ -16,7 +16,7 @@
                   Es por eso que buscamos trabajar para proporcionar la máxima satisfacción a nuestros clientes con soluciones a medida y de valor añadido a sus necesidades. Con pleno respeto al principio de conflicto de intereses.
                 </p>
                 <p>
-                  Con nuestros abogados experimentados, nuestra firma está especializada en las partes principales del derecho. Las áreas de especialización abarcan principalmente el derecho familiar y el derecho laboral.
+                  Con nuestros abogados experimentados, las áreas de especialización de nuestra firma abarcan las principales ramas del derecho.
                 </p>
               <q class="color_fff">Tener el abogado correcto puede cambiar todo</q>
           </div>

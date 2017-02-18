@@ -6,7 +6,7 @@
         <div class="row">     
             <div class="col-md-12">
               <div class="content content-title scale-text">    
-                <h2 class="color_303030 timeIn">Podemos ayudarlo</h2>
+                <h2 class="color_303030 timeIn">Podemos ayudarte</h2>
                 </br><img src="img/separate-black.png" class="divid timeIn" alt="">
               </div>
           </div>
@@ -52,7 +52,7 @@
                <div class="layer-wraper">
                    <div class="layer-blog"></div>
                    <a href="blog/index.html">   
-                   <img src="img/services/crash.jpg" alt="news1" class="blog-img onload" onload="this.setAttribute('class', 'blog-img onload loaded');">
+                   <img src="img/services/motocrash.jpg" alt="news1" class="blog-img onload" onload="this.setAttribute('class', 'blog-img onload loaded');">
                    </a>
                </div> 
                <div class="title">

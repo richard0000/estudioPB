@@ -43,7 +43,7 @@
               <div class="slider-top-thumbs">
                 <div class="row-fluid table">
                   <div class="ccol-lg-6 col-lg-offset-3 ol-md-6 col-md-offset-3 col-sm-12 col-xs-12 t_td">
-                    <h1 class="color-5acdc4 animation-scale">Desde <span class="animation-opacity animation-500">1995</span></h1>
+                    <h1 class="color-5acdc4 animation-scale">Experiencia y resultado <span class="animation-opacity animation-500">nos garantizan</span></h1>
                     <div class="row-fluid">
                       <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-8 col-sm-offset-2 col-xs-12">
                         <div class="row-fluid">
