@@ -26,12 +26,13 @@
                    <div class="team-block">
                         <div class="layer"></div>
                         <div class="dark-wrapper-team-img">
-                          <img src="img/team/1.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');"> 
+                          <img src="img/team/pb1.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');"> 
                         </div>      
                           <button class="team-button color_fff">
                               <b>Ra&uacute;l Portal</b></br>
-                              <i>Abogado</i>
+                              <i>Titular</i>
                           </button>
+<!--
                            <div class="team-icon">
                                <div class="roll-batton">
                                     <img src="img/team-fb.png" alt="">
@@ -46,18 +47,20 @@
                                     <img src="img/team-in-hov.png" class="roll" alt="">
                                </div>
                            </div>
+-->                   
                    </div>
                </div>
                <div class="swiper-slide team-animate">    
                    <div class="team-block">
                        <div class="layer"></div>
                        <div class="dark-wrapper-team-img">
-                          <img src="img/team/2.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
+                          <img src="img/team/pb2.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
                        </div>      
                           <button class="team-button color_fff">
                               <b>Ignacio Barni</b></br>
-                              <i>Abogado</i>
+                              <i>Titular</i>
                           </button>
+<!--
                           <div class="team-icon">
                                <div class="roll-batton">
                                     <img src="img/team-fb.png" alt="">
@@ -72,18 +75,20 @@
                                     <img src="img/team-in-hov.png" class="roll" alt="">
                                </div>
                            </div>
+-->                   
                    </div>
                </div>
                <div class="swiper-slide team-animate">
                    <div class="team-block">
                        <div class="layer"></div>
                        <div class="dark-wrapper-team-img">
-                          <img src="img/team/3.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
+                          <img src="img/team/pb3.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
                        </div>
                           <button class="team-button color_fff">      
-                              <b>Peter Chester</b></br>
-                              <i>co-founder</i>
+                              <b>Marcos Balcedo</b></br>
+                              <i>Socio</i>
                           </button>
+<!--
                           <div class="team-icon">
                                <div class="roll-batton">
                                     <img src="img/team-fb.png" alt="">
@@ -98,18 +103,20 @@
                                     <img src="img/team-in-hov.png" class="roll" alt="">
                                </div>
                            </div>
+-->                    
                     </div>
               </div>
-              <div class="swiper-slide">
+               <div class="swiper-slide team-animate">
                    <div class="team-block">
                        <div class="layer"></div>
                        <div class="dark-wrapper-team-img">
-                         <img src="img/team.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
+                          <img src="img/team/pb4.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
                        </div>
                           <button class="team-button color_fff">      
-                              <b>Monica Yagoo</b></br>
-                              <i>creative director</i>
+                              <b>Mar&iacute;a L&iacute;a Gonz&aacute;lez Alanis</b></br>
+                              <i>Abogada</i>
                           </button>
+<!--
                           <div class="team-icon">
                                <div class="roll-batton">
                                     <img src="img/team-fb.png" alt="">
@@ -124,44 +131,20 @@
                                     <img src="img/team-in-hov.png" class="roll" alt="">
                                </div>
                            </div>
+-->                    
                     </div>
               </div>
-              <div class="swiper-slide">
+               <div class="swiper-slide team-animate">
                    <div class="team-block">
                        <div class="layer"></div>
                        <div class="dark-wrapper-team-img">
-                         <img src="img/team.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
-                       </div>      
-                          <button class="team-button color_fff">      
-                              <b>Samson Exter</b></br>
-                              <i>pr</i>
-                          </button>
-                          <div class="team-icon">
-                               <div class="roll-batton">
-                                    <img src="img/team-fb.png" alt="">
-                                    <img src="img/team-fb-hov.png" class="roll" alt="">
-                               </div>
-                               <div class="roll-batton">
-                                    <img src="img/team-tw.png" alt="">
-                                    <img src="img/team-tw-hov.png" class="roll" alt="">
-                               </div>
-                               <div class="roll-batton">
-                                    <img src="img/team-in.png" alt="">
-                                    <img src="img/team-in-hov.png" class="roll" alt="">
-                               </div>
-                           </div>
-                    </div>
-              </div>
-              <div class="swiper-slide">
-                   <div class="team-block">
-                       <div class="layer"></div>
-                       <div class="dark-wrapper-team-img">
-                       <img src="img/team.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
+                          <img src="img/team/pb5.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
                        </div>
                           <button class="team-button color_fff">      
-                              <b>Ray Mcdonald</b></br>
-                              <i>head programmer</i>
+                              <b>Jos&eacute; Francisco De La Canal</b></br>
+                              <i>Asesor Judicial</i>
                           </button>
+<!--
                           <div class="team-icon">
                                <div class="roll-batton">
                                     <img src="img/team-fb.png" alt="">
@@ -176,18 +159,20 @@
                                     <img src="img/team-in-hov.png" class="roll" alt="">
                                </div>
                            </div>
+-->                    
                     </div>
               </div>
-              <div class="swiper-slide">
+               <div class="swiper-slide team-animate">
                    <div class="team-block">
                        <div class="layer"></div>
                        <div class="dark-wrapper-team-img">
-                       <img src="img/team.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
-                       </div>      
+                          <img src="img/team/pb6.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');">
+                       </div>
                           <button class="team-button color_fff">      
-                              <b>Jess Winter</b></br>
-                              <i>head hr</i>
+                              <b>Giovanna Bazzaro</b></br>
+                              <i>Asesor Judicial</i>
                           </button>
+<!--
                           <div class="team-icon">
                                <div class="roll-batton">
                                     <img src="img/team-fb.png" alt="">
@@ -202,8 +187,10 @@
                                     <img src="img/team-in-hov.png" class="roll" alt="">
                                </div>
                            </div>
+-->                    
                     </div>
               </div>
+
             </div>
                      <div class="pagination swich_2">
                      </div>
@@ -214,24 +201,26 @@
 </div>
 
 <!--popup-team-->
-          
+
     <div class="popup-team-container">
         <div class="popup-container-team popup-slider-team">
               <div class="swiper-wrapper align-top">
+<!--UnaFoto-->
               <div class="swiper-slide popup-team">
                 <div class="wrap-team">
                   <div class="left-content">
-                    <img src="img/team.jpg" alt="" class="onload"  onload="this.setAttribute('class', 'onload loaded');">
+                    <img src="img/team/pb1.jpg" alt="" class="onload"  onload="this.setAttribute('class', 'onload loaded');">
                   </div>
                   <div class="right-wrap">
                   <div class="right-content">
                      <button class="team-button2 color_fff">
-                          <b>John Dou</b></br>
-                          <i>company founder</i>
+                          <b>Ra&uacute;l Portal</b></br>
+                          <i>Titular</i>
                       </button>
                       <div class="clear"></div>
-                            <p>Aliquam id tincidunt turpis, eu fringilla erat. Vestibulum lacinia, nisi sed bibendum pretium, eros sapien laoreet metus, ac facilisis felis enim a nibh. Sed sed ligula tellus. Aliquam feugiat, nunc ut tincidunt laoreet, urna quam pellentesque diam, id posuere velit lectus vel dui. Maecenas posuere eget metus ac venenatis. Pellentesque eget quam luctus, molestie ligula eu, blandit orci. Vestibulum vel nulla non quam ornare lobortis ut id enim. Praesent tempor porttitor dui vel adipiscing. Vestibulum in tristique lacus, eu dignissim augue. 
-                            </p>
+                            <h3>Tener el abogado correcto</h3>
+                            <h3>puede cambiar todo...</h3>
+<!--
                         <div class="team-icon">
                            <div class="roll-batton">
                                 <img src="img/team-fb.png" alt="">
@@ -246,6 +235,7 @@
                                 <img src="img/team-in-hov.png" class="roll" alt="">
                            </div>
                        </div>      
+-->                  
                   </div>
                   </div>
                     <div class="close-up class">
@@ -253,19 +243,23 @@
                     </div>   
                 </div>  
             </div>
+<!--FinUnaFoto-->
+
+<!--UnaFoto-->
             <div class="swiper-slide popup-team">
                 <div class="wrap-team">
                   <div class="left-content">
-                    <img src="img/team.jpg" alt="" class="onload"  onload="this.setAttribute('class', 'onload loaded');">
+                    <img src="img/team/pb2.jpg" alt="" class="onload"  onload="this.setAttribute('class', 'onload loaded');">
                   </div>
                   <div class="right-content">
                      <button class="team-button2 color_fff">
-                          <b>Kerry Smith</b></br>
-                          <i>co-founder</i>
+                          <b>Ignacio Barni</b></br>
+                          <i>Titular</i>
                       </button>
                       <div class="clear"></div>
-                            <p>Aliquam id tincidunt turpis, eu fringilla erat. Vestibulum lacinia, nisi sed bibendum pretium, eros sapien laoreet metus, ac facilisis felis enim a nibh. Sed sed ligula tellus. Aliquam feugiat, nunc ut tincidunt laoreet, urna quam pellentesque diam, id posuere velit lectus vel dui. Maecenas posuere eget metus ac venenatis. Pellentesque eget quam luctus, molestie ligula eu, blandit orci. Vestibulum vel nulla non quam ornare lobortis ut id enim. Praesent tempor porttitor dui vel adipiscing. Vestibulum in tristique lacus, eu dignissim augue.  
-                            </p>
+                            <h3>Tener el abogado correcto</h3>
+                            <h3>puede cambiar todo...</h3>
+<!--
                         <div class="team-icon">
                            <div class="roll-batton">
                                 <img src="img/team-fb.png" alt="">
@@ -280,25 +274,30 @@
                                 <img src="img/team-in-hov.png" class="roll" alt="">
                            </div>
                        </div>      
+-->                  
                   </div>
                      <div class="close-up class">
                        <span class="close-x">+</span>
                      </div> 
                 </div>
             </div>
+<!--FinUnaFoto-->
+
+<!--UnaFoto-->
             <div class="swiper-slide popup-team">
                 <div class="wrap-team">
                   <div class="left-content">
-                    <img src="img/team.jpg" alt="" class="onload" onload="this.setAttribute('class', 'onload loaded');"/>
+                    <img src="img/team/pb3.jpg" alt="" class="onload"  onload="this.setAttribute('class', 'onload loaded');">
                   </div>
                   <div class="right-content">
                      <button class="team-button2 color_fff">
-                          <b>Peter Chester</b></br>
-                          <i>co-founder</i>
+                          <b>Marcos Balcedo</b></br>
+                          <i>Socio</i>
                       </button>
                       <div class="clear"></div>
-                            <p>Aliquam id tincidunt turpis, eu fringilla erat. Vestibulum lacinia, nisi sed bibendum pretium, eros sapien laoreet metus, ac facilisis felis enim a nibh. Sed sed ligula tellus. Aliquam feugiat, nunc ut tincidunt laoreet, urna quam pellentesque diam, id posuere velit lectus vel dui. Maecenas posuere eget metus ac venenatis. Pellentesque eget quam luctus, molestie ligula eu, blandit orci. Vestibulum vel nulla non quam ornare lobortis ut id enim. Praesent tempor porttitor dui vel adipiscing. Vestibulum in tristique lacus, eu dignissim augue. 
-                            </p>
+                            <h3>Tener el abogado correcto</h3>
+                            <h3>puede cambiar todo...</h3>
+<!--
                         <div class="team-icon">
                            <div class="roll-batton">
                                 <img src="img/team-fb.png" alt="">
@@ -313,14 +312,131 @@
                                 <img src="img/team-in-hov.png" class="roll" alt="">
                            </div>
                        </div>      
+-->                  
                   </div>
                      <div class="close-up class">
                        <span class="close-x">+</span>
                      </div> 
                 </div>
             </div>
+<!--FinUnaFoto-->
+
+<!--UnaFoto-->
+            <div class="swiper-slide popup-team">
+                <div class="wrap-team">
+                  <div class="left-content">
+                    <img src="img/team/pb4.jpg" alt="" class="onload"  onload="this.setAttribute('class', 'onload loaded');">
+                  </div>
+                  <div class="right-content">
+                     <button class="team-button2 color_fff">
+                          <b>Mar&iacute;a L&iacute;a Gonz&aacute;lez Alanis</b></br>
+                          <i>Abogada</i>
+                      </button>
+                      <div class="clear"></div>
+                            <h3>Tener el abogado correcto</h3>
+                            <h3>puede cambiar todo...</h3>
+<!--
+                        <div class="team-icon">
+                           <div class="roll-batton">
+                                <img src="img/team-fb.png" alt="">
+                                <img src="img/team-fb-hov.png" class="roll" alt="">
+                           </div>
+                           <div class="roll-batton">
+                                <img src="img/team-tw.png" alt="">
+                                <img src="img/team-tw-hov.png" class="roll" alt="">
+                           </div>
+                           <div class="roll-batton">
+                                <img src="img/team-in.png" alt="">
+                                <img src="img/team-in-hov.png" class="roll" alt="">
+                           </div>
+                       </div>      
+-->                  
+                  </div>
+                     <div class="close-up class">
+                       <span class="close-x">+</span>
+                     </div> 
+                </div>
+            </div>
+<!--FinUnaFoto-->
+
+<!--UnaFoto-->
+            <div class="swiper-slide popup-team">
+                <div class="wrap-team">
+                  <div class="left-content">
+                    <img src="img/team/pb5.jpg" alt="" class="onload"  onload="this.setAttribute('class', 'onload loaded');">
+                  </div>
+                  <div class="right-content">
+                     <button class="team-button2 color_fff">
+                          <b>Jos&eacute; Francisco De La Canal</b></br>
+                          <i>Asesor Judicial</i>
+                      </button>
+                      <div class="clear"></div>
+                            <h3>Tener el abogado correcto</h3>
+                            <h3>puede cambiar todo...</h3>
+<!--
+                        <div class="team-icon">
+                           <div class="roll-batton">
+                                <img src="img/team-fb.png" alt="">
+                                <img src="img/team-fb-hov.png" class="roll" alt="">
+                           </div>
+                           <div class="roll-batton">
+                                <img src="img/team-tw.png" alt="">
+                                <img src="img/team-tw-hov.png" class="roll" alt="">
+                           </div>
+                           <div class="roll-batton">
+                                <img src="img/team-in.png" alt="">
+                                <img src="img/team-in-hov.png" class="roll" alt="">
+                           </div>
+                       </div>      
+-->                  
+                  </div>
+                     <div class="close-up class">
+                       <span class="close-x">+</span>
+                     </div> 
+                </div>
+            </div>
+<!--FinUnaFoto-->
+
+<!--UnaFoto-->
+            <div class="swiper-slide popup-team">
+                <div class="wrap-team">
+                  <div class="left-content">
+                    <img src="img/team/pb6.jpg" alt="" class="onload"  onload="this.setAttribute('class', 'onload loaded');">
+                  </div>
+                  <div class="right-content">
+                     <button class="team-button2 color_fff">
+                          <b>Giovanna Bazzaro</b></br>
+                          <i>ASesor Judicial</i>
+                      </button>
+                      <div class="clear"></div>
+                            <h3>Tener el abogado correcto</h3>
+                            <h3>puede cambiar todo...</h3>
+<!--
+                        <div class="team-icon">
+                           <div class="roll-batton">
+                                <img src="img/team-fb.png" alt="">
+                                <img src="img/team-fb-hov.png" class="roll" alt="">
+                           </div>
+                           <div class="roll-batton">
+                                <img src="img/team-tw.png" alt="">
+                                <img src="img/team-tw-hov.png" class="roll" alt="">
+                           </div>
+                           <div class="roll-batton">
+                                <img src="img/team-in.png" alt="">
+                                <img src="img/team-in-hov.png" class="roll" alt="">
+                           </div>
+                       </div>      
+-->                  
+                  </div>
+                     <div class="close-up class">
+                       <span class="close-x">+</span>
+                     </div> 
+                </div>
+            </div>
+<!--FinUnaFoto-->
+
           </div>
         <div class="slider-prev">&#212;</div>
         <div class="slider-next">&#215;</div>
-      </div>
-  </div>   
+    </div>
+  </div>
