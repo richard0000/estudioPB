@@ -41,12 +41,14 @@
             <img src="img/contact-icon4_1.png" class="icon-hov" alt="">
           </a>
         </div>
-        <div class="soc-icon red">
-          <a href="">
-            <img src="img/contact-icon5.png" alt="">
-            <img src="img/contact-icon5_1.png" class="icon-hov" alt="">
-          </a>
-        </div>
+        -->
+        <a href="https://plus.google.com/b/115262142728654005904/115262142728654005904" target="_blank">
+          <div class="soc-icon red">
+              <img src="img/contact-icon5.png" alt="">
+              <img src="img/contact-icon5_1.png" class="icon-hov" alt="">
+          </div>
+        </a>
+        <!--
         <div class="soc-icon blue3">
           <a href="">
             <img src="img/contact-icon6.png" alt="">
