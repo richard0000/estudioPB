@@ -442,8 +442,8 @@ textarea:-moz-placeholder {color: #545454;}
 .contact-button input[type="submit"] {position: relative; display: inline-block; float: none; margin-top:15px; font-weight: 300; font-size: 16px; font-style: italic; color: #5acdc4; border: 2px solid #5acdc4; background: none; transition: all 0.3s ease-in; -webkit-transition: all 0.3s ease-in; -moz-transition: all 0.3s ease-in; -o-transition: all 0.3s ease-in; -ms-transition: all 0.3s ease-in; width:100%; height: 52px;}
 .contact-button input[type="submit"]:hover {background-color: #5acdc4; color: #fff;}
 .map-canvas {top: 50px; width: 100%; height: 430px;float: left; position: relative;}
-.copyright {text-align: center; padding: 20px 0; height: 60px; width:100%; background: #fff; position: relative; display: block; float: left;}
-.copyright i {font-weight: 100; font-size: 13px; line-height: 24px; color: #545454;}
+.copyright {text-align: center; padding: 20px 0; height: 60px; width:100%; background: rgba(51,51,51,0.95); position: relative; display: block; float: left;}
+.copyright i {font-weight: 100; font-size: 13px; line-height: 24px; color: #fff;}
 
 /* 11 - SWICHERS*/
 

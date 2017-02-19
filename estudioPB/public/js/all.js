@@ -406,13 +406,30 @@ $('.career-popup-container .popup-text p').text($('.career-button').eq(button_po
     
 /////////////popup-thankyou/////////////////////////////////////////
     
-      $('.th').click(function(){
-          fixBody();
-        $('.popup-th').addClass('act');
+        $('.th').click(function(){
+            var name = $('#name').val();
+            var email = $('#email').val();
+            var subject = $('#subject').val();
+            var message = $('#message').val();
+
+            $.ajax({
+                url:  'api/mail',
+                type: 'POST',
+                data: {"name": name, "email": email, "subject": subject, "message": message},
+
+                success:  function (asunto)
+                {
+                    fixBody();
+                    $('.popup-th').addClass('act');
+                }
+            });
+            
             return false;
         });
+        
         $('.close-up, .popup-th').click(function(){
             unfixBody();
+        
         $('.popup-th').removeClass('act'); 
             return false;
         });
