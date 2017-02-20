@@ -86,7 +86,7 @@
                        </div>
                           <button class="team-button color_fff">      
                               <b>Marcos Balcedo</b></br>
-                              <i>Socio</i>
+                              <i>Abogado</i>
                           </button>
 <!--
                           <div class="team-icon">
@@ -292,7 +292,7 @@
                   <div class="right-content">
                      <button class="team-button2 color_fff">
                           <b>Marcos Balcedo</b></br>
-                          <i>Socio</i>
+                          <i>Abogado</i>
                       </button>
                       <div class="clear"></div>
                             <h3>Tener el abogado correcto</h3>
