@@ -14,3 +14,4 @@
 11		28-01-17	Terminada		Colocar fotos reales del equipo
 12		19-02-17	NoComenzada		Cambiar mail fromTo a institucional
 13		19-02-17	NoComenzada		Agregar datos de la empresa al footer
+14		19-02-17	NoComenzada		Añadir owner a la cuenta de Google+ y Google Console

@@ -114,6 +114,84 @@
  <div class="full-width">   
   <div class="map-canvas" id="map-canvas-contact" data-lat="-34.9145512" data-lng="-57.9640438" data-zoom="12" data-string="<b>La Plata</b></br><adress></br>13 Nº491 piso 7 'B'</br>La Plata, Buenos Aires</br>Argentina</br>Tel/Fax: +549 221 4235047/4468109"></div>
 </div>
+
+     <!--CAREER-->
+     
+<div class="scrollto">
+   <div class="full-width scale-text">                      
+          <div class="career-container career-slider">
+            <div class="swiper-wrapper">
+               <div class="swiper-slide">
+                    <div class="bg-fix img-develop">
+                     <img src="img/career.jpg" data-width-img="1920" data-height-img="1080"/>
+                    </div>
+                  <div class="slider-top-thumbs">
+                     <div class="career-button color_fff career-animate">
+                        <div class="career-title"> 
+                             <div class="sity-carrer"><i>La Plata, Buenos Aires, Argentina</i></div>
+                             <div class="develop"><b>Calle 13 Nº 491</b></div>
+                             <div class="experience"><h4>Piso 7º"B"</h4></div> 
+                             <span class="career-top"></span>
+                             <span class="career-left"></span>
+                             <div class="text-insert"  data-text="."></div>
+                        </div>     
+                     </div>
+                  </div>
+               </div>
+               <div class="swiper-slide">
+                    <div class="bg-fix img-develop">
+                     <img src="img/career.jpg" data-width-img="1920" data-height-img="1080"/>
+                    </div>
+                  <div class="slider-top-thumbs">
+                     <div class="career-button color_fff career-animate">
+                         <div class="sity-carrer"><i>Tel&eacute;fonos</i></div>
+                         <div class="develop"><b>Tel/Fax: 0221 - 4235047 / 4468109</b></div>
+                         <div class="experience"><h4></h4></div>  
+                         <span class="career-top"></span>
+                         <span class="career-left"></span>
+                         <div class="text-insert"  data-text="."></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="swiper-slide">
+                    <div class="bg-fix img-develop">
+                     <img src="img/career.jpg" data-width-img="1920" data-height-img="1080"/>
+                    </div>
+                  <div class="slider-top-thumbs">
+                     <div class="career-button color_fff career-animate">
+                         <div class="sity-carrer"><i>Tel&eacute;fonos particulares</i></div>
+                         <div class="develop"><b>Ra&uacute;l Portal</b> <b>0221-156131383 / ID 669*1268</b></div>
+                         <div class="experience"><h4></h4></div> 
+                         <span class="career-top"></span>
+                         <span class="career-left"></span>
+                         <div class="text-insert" data-text="."></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="swiper-slide">
+                    <div class="bg-fix img-develop">
+                     <img src="img/career.jpg" data-width-img="1920" data-height-img="1080"/>
+                    </div>
+                  <div class="slider-top-thumbs">
+                     <div class="career-button color_fff career-animate">
+                         <div class="sity-carrer"><i>Tel&eacute;fonos particulares</i></div>
+                         <div class="develop"><b>Ignacio Barni</b> <b>0221-155020885 / ID 669*1269</b></div>
+                         <div class="experience"><h4></h4></div> 
+                         <span class="career-top"></span>
+                         <span class="career-left"></span>
+                         <div class="text-insert" data-text="."></div>
+                     </div>
+                  </div>
+               </div>
+          </div>
+                <div class="slider-prev">&#212;</div>
+                <div class="slider-next">&#215;</div>
+                <div class="pagination swich_3">
+             </div>
+          </div>          
+    </div>  
+</div>
+
 <div class="full-width">
   <div class="copyright">
     <i>&copy; 2017, hecho por Ricardo Gamarra. Todos los derechos reservados.</i>

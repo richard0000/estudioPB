@@ -380,7 +380,7 @@ var ios = navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/we
     });
     
 //popup-career//////////////////////////
-    
+/*    
         $('.career-button').click(function(){   
         var button_pop_index = $('.career-button').index(this);
         $('.career-popup-container').addClass('act');
@@ -403,7 +403,7 @@ $('.career-popup-container .popup-text p').text($('.career-button').eq(button_po
         $('.career-popup-container').addClass('act');
             return false;
         });
-    
+*/    
 /////////////popup-thankyou/////////////////////////////////////////
     
         $('.th').click(function(){
