@@ -22,7 +22,7 @@
           </a>
         </div>
       -->
-      <a href="http://www.facebook.com/estudio.pb" target="_blank">
+      <a href="http://www.facebook.com/ESTUDIOJURIDICOPB" target="_blank">
         <div class="soc-icon blue2">
           <img src="img/contact-icon2.png" alt="">
           <img src="img/contact-icon2_1.png" class="icon-hov" alt="">
@@ -129,8 +129,8 @@
                      <div class="career-button color_fff career-animate">
                         <div class="career-title"> 
                              <div class="sity-carrer"><i>La Plata, Buenos Aires, Argentina</i></div>
-                             <div class="develop"><b>Calle 13 Nº 491</b></div>
-                             <div class="experience"><h4>Piso 7º"B"</h4></div> 
+                             <div class="develop"><b>Calle 13 Nº 491, Piso 7º"B"</b></div>
+                             <div class="experience"><h4>Tel/Fax: 0221 - 4235047 / 4468109</h4></div>
                              <span class="career-top"></span>
                              <span class="career-left"></span>
                              <div class="text-insert"  data-text="."></div>
@@ -138,55 +138,9 @@
                      </div>
                   </div>
                </div>
-               <div class="swiper-slide">
-                    <div class="bg-fix img-develop">
-                     <img src="img/career.jpg" data-width-img="1920" data-height-img="1080"/>
-                    </div>
-                  <div class="slider-top-thumbs">
-                     <div class="career-button color_fff career-animate">
-                         <div class="sity-carrer"><i>Tel&eacute;fonos</i></div>
-                         <div class="develop"><b>Tel/Fax: 0221 - 4235047 / 4468109</b></div>
-                         <div class="experience"><h4></h4></div>  
-                         <span class="career-top"></span>
-                         <span class="career-left"></span>
-                         <div class="text-insert"  data-text="."></div>
-                     </div>
-                  </div>
-               </div>
-               <div class="swiper-slide">
-                    <div class="bg-fix img-develop">
-                     <img src="img/career.jpg" data-width-img="1920" data-height-img="1080"/>
-                    </div>
-                  <div class="slider-top-thumbs">
-                     <div class="career-button color_fff career-animate">
-                         <div class="sity-carrer"><i>Tel&eacute;fonos particulares</i></div>
-                         <div class="develop"><b>Ra&uacute;l Portal</b> <b>0221-156131383 / ID 669*1268</b></div>
-                         <div class="experience"><h4></h4></div> 
-                         <span class="career-top"></span>
-                         <span class="career-left"></span>
-                         <div class="text-insert" data-text="."></div>
-                     </div>
-                  </div>
-               </div>
-               <div class="swiper-slide">
-                    <div class="bg-fix img-develop">
-                     <img src="img/career.jpg" data-width-img="1920" data-height-img="1080"/>
-                    </div>
-                  <div class="slider-top-thumbs">
-                     <div class="career-button color_fff career-animate">
-                         <div class="sity-carrer"><i>Tel&eacute;fonos particulares</i></div>
-                         <div class="develop"><b>Ignacio Barni</b> <b>0221-155020885 / ID 669*1269</b></div>
-                         <div class="experience"><h4></h4></div> 
-                         <span class="career-top"></span>
-                         <span class="career-left"></span>
-                         <div class="text-insert" data-text="."></div>
-                     </div>
-                  </div>
                </div>
           </div>
-                <div class="slider-prev">&#212;</div>
-                <div class="slider-next">&#215;</div>
-                <div class="pagination swich_3">
+             <div class="pagination swich_3">
              </div>
           </div>          
     </div>  
@@ -194,7 +148,13 @@
 
 <div class="full-width">
   <div class="copyright">
-    <i>&copy; 2017, hecho por Ricardo Gamarra. Todos los derechos reservados.</i>
+    <i>
+      &copy; 2017, hecho por 
+      <a href="http://www.facebook.com/Ricardo-Gamarra-Soluciones-Informaticas-1604282206253922/" target="_blank">
+        <i class="sity-carrer">Ricardo Gamarra</i>
+      </a>
+      . Todos los derechos reservados.
+    </i>
   </div> 
 </div>
 </div>    
