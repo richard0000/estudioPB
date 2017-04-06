@@ -1,6 +1,10 @@
 <!--top-menu-->
 <div class="navigation">
     <a class="logo" href="/"><img src="img/logos/logo.png" alt=""></a>
+    <div></div>
+    <span class="color_fff" style="margin-left: 30px">Raul Portall</span>
+    <span class="color_fff"> - </span>
+    <span class="color_fff">Ignacio Barni</span>
     <div class="top-menu">
         <div class="menu-mobile-icon menu-hide">
             <a href=""><img src="img/mobile.png" alt=""></a>

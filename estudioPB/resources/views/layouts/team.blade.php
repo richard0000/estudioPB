@@ -29,7 +29,7 @@
                           <img src="img/team/pb1.jpg" alt="" class="team-img onload" onload="this.setAttribute('class', 'team-img onload loaded');"> 
                         </div>      
                           <button class="team-button color_fff">
-                              <b>Ra&uacute;l Portal</b></br>
+                              <b>Ra&uacute;l Portall</b></br>
                               <i>Titular</i>
                           </button>
 <!--

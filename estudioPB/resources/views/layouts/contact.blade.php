@@ -133,6 +133,8 @@
                              <div class="experience"><h4>Tel/Fax: 0221 - 4235047 / 4468109</h4></div>
                              <span class="career-top"></span>
                              <span class="career-left"></span>
+                             <span class="experience">Raul Portall</span><span> - </span>
+                             <span class="experience">Ignacio Barni</span>
                              <div class="text-insert"  data-text="."></div>
                         </div>     
                      </div>
