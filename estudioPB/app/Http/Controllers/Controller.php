@@ -22,7 +22,7 @@ class Controller extends BaseController
 
         Mail::send('emails.mensaje_cliente', $data, function ($message){
             $message->subject('Mensaje de cliente web');
-            $message->to('r.richard0000@gmail.com');
+            $message->to('pbestudio@hotmail.com');
         });
 	}
 }
