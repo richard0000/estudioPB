@@ -11,10 +11,10 @@ use Mail;
 
 class Controller extends BaseController
 {
-	use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+    use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
-	public function mail()
-	{
+    public function mail()
+    {
         $data['name'] = $_POST['name'];
         $data['email'] = $_POST['email'];
         $data['subject'] = $_POST['subject'];
@@ -24,5 +24,5 @@ class Controller extends BaseController
             $message->subject('Mensaje de cliente web');
             $message->to('pbestudio@hotmail.com');
         });
-	}
+    }
 }
