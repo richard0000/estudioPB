@@ -412,23 +412,42 @@ $('.career-popup-container .popup-text p').text($('.career-button').eq(button_po
             var subject = $('#subject').val();
             var message = $('#message').val();
 
-            $.ajax({
-                url:  'api/mail',
-                type: 'POST',
-                data: {"name": name, "email": email, "subject": subject, "message": message},
+            if((name != '')&&(email !== '')&&(subject !== '')&&(message !== '')){
+                $('.popup-th').addClass('act');
 
-                success:  function (asunto)
-                {
-                    fixBody();
-                    $('.popup-th').addClass('act');
+                $.ajax({
+                    url:  'api/mail',
+                    type: 'POST',
+                    data: {"name": name, "email": email, "subject": subject, "message": message},
+
+                    success:  function (asunto)
+                    {
+                        fixBody();
+                    }
+                });
+                
+                return false;
+            }else{
+                console.log('algo');
+                if(name == ''){
+                    $('#name').attr('placeholder', 'Por favor, complete este campo');
+                    $('#name').focus();
+                }else if(email == ''){
+                    $('#email').attr('placeholder', 'Por favor, complete este campo');
+                    $('#email').focus();
+                }else if(subject == ''){
+                    $('#subject').attr('placeholder', 'Por favor, complete este campo');
+                    $('#subject').focus();
+                }else if(message == ''){
+                    $('#message').attr('placeholder', 'Por favor, complete este campo');
+                    $('#message').focus();
                 }
-            });
-            
-            return false;
+            }
         });
         
-        $('.close-up, .popup-th').click(function(){
+        $('.close-up, .popup-th, close-x').click(function(){
             unfixBody();
+            location.reload();
         
         $('.popup-th').removeClass('act'); 
             return false;

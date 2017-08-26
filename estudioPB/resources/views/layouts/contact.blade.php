@@ -82,13 +82,13 @@
       <div class="row full-width-input scale-text">
         <div class="col-md-12 col-sm-12">
           <div class="contact-field">  
-            <input type="text" id="name" name="name" value="Nombre*&emsp;&emsp;" class="timeIn">
+            <input type="text" id="name" name="name" placeholder="Nombre*&emsp;&emsp;" class="timeIn" required>
           </div>   
         </div>
         <div class="col-md-12 col-sm-12">
           <div class="contact-field">   
-            <div class="error-input"><input type="email" id="email" name="email" value="Email*&emsp;&emsp;" class="timeIn"></div>
-            <input type="text" id="subject" name="subject" value="Asunto&emsp;&emsp;" class="timeIn">
+            <div class="error-input"><input type="email" id="email" name="email" placeholder="Email*&emsp;&emsp;" class="timeIn" required></div>
+            <input type="text" id="subject" name="subject" placeholder="Asunto&emsp;&emsp;" class="timeIn" required>
           </div>  
         </div>
       </div>    
@@ -97,7 +97,7 @@
   <div class="row scale-text">       
     <div class="col-md-12">
       <div class="contact-massege">
-       <textarea id="message" name="message" placeholder="Mensaje..." class="timeIn"></textarea>
+       <textarea id="message" name="message" placeholder="Mensaje..." class="timeIn" required></textarea>
      </div>
    </div>
   </div>
