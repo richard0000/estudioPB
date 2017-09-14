@@ -14,7 +14,6 @@
 <script type="application/javascript" src="//script2.chat-robot.com/?token=c7f26fb2fb61236c63dc71716db3944d"></script>
 -->
 <!--Start of Tawk.to Script-->
-<!--
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
@@ -26,5 +25,4 @@ s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
--->
 <!--End of Tawk.to Script-->
